@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Whisper Theme</title>
-    <link>/</link>
+    <link>https://github.com/pengrl/pengrl.github.io/</link>
     <description>Recent content on Hugo Whisper Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/pengrl/pengrl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preface</title>
-      <link>/docs/preface/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/preface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/preface/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/preface/</guid>
       <description>Perhaps in the river of civilization, there truly is no eternal existence beyond the material world. Just as the radiant ages of human greatness during pivotal eras, the religions, cultures, and wisdom born from these epochs have profoundly influenced the evolution and transformation of civilization. And foreseeable future holds inevitable continuation of this impact, which is our civilization&amp;rsquo;s treasure—intangible ideas. The abundant time and material resources propel humanity towards a higher level of spiritual civilization.</description>
     </item>
     <item>
       <title>What is BeArt?</title>
-      <link>/docs/beart/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/beart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/beart/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/beart/</guid>
       <description>Through the integration of technology and financial innovation, BeArt has mapped real-world art assets into the crypto domain. With proprietary detection technology patents, BeArt introduces RWA assets that resemble NFTs but are based on protocols similar to ERC721 and ERC1155, along with associated derivative assets known as RWAD.&#xA;This marks a significant departure from traditional NFT art realms. BeArt utilizes a proprietary patented technology rooted in the value of real art assets and a 100% mapping standard.</description>
     </item>
     <item>
       <title>ERC721g</title>
-      <link>/docs/erc721g/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/erc721g/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/erc721g/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/erc721g/</guid>
       <description>Collector Information Tag: Provides detailed personal or institutional information about the art owner&#xA;Collection Details: Includes basic information about the artwork such as name, creator, creation year, material, and any special historical or narrative aspects.&#xA;Scientific Analysis Data: Utilizes advanced technology to scientifically analyze the artwork, recording critical data such as material composition and preservation condition.&#xA;Additional Auxiliary Information: Any supplementary information helpful for enhancing the value and understanding of the artwork.</description>
     </item>
     <item>
       <title>RWA Asset Standard</title>
-      <link>/docs/standard/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/standard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/standard/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/standard/</guid>
       <description>Moreover, this standard emphasizes the security and verifiability of data collection. By using encrypted and verifiable scientific equipment and combining it with professional researchers&amp;rsquo; operations, this standard achieves end-to-end encrypted communication from offline data collection to on-chain smart contract records, ensuring data authenticity and integrity. This design not only guarantees the accurate digitization and tokenization of art RWA but also provides a more trusted technical credential for asset forms like NFTs—a completely genuine on-chain mapping.</description>
     </item>
     <item>
       <title>CATALOGUE System</title>
-      <link>/docs/system/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/system/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/system/</guid>
       <description>Certification: This involves a blockchain-based system combined with interdisciplinary science to provide identity authentication and authenticity verification for artworks.&#xA;Art Gene Card: This is the data credential and visual representation result of the CATALOGUE System, presenting a unique identification RWA asset gene card (archive). It assists collectors in quickly understanding or sharing the &amp;ldquo;past and present&amp;rdquo; and &amp;ldquo;DNA information&amp;rdquo; of an artwork and its derivatives.&#xA;Due to its association with physical world entities, the entire forging process presents higher demands in three dimensions:</description>
     </item>
     <item>
       <title>Explanation</title>
-      <link>/docs/explanation/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/explanation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/explanation/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/explanation/</guid>
       <description>BeArt is committed to providing a diversified platform for art trading and exhibitions while serving as an ecological economic entity. By combining various encrypted assets like NFTs, RWAs, and tokens with offline real-world artworks, we have established a self-sustaining, cyclical economic system.&#xA;Initially, the platform will provide infrastructure and services for art trading and exhibitions, along with launching a Genesis NFT series related to overall platform governance. As the platform matures and user base expands, the ecological economic entity will introduce a token model to enhance economic vitality, creating additional value and returns for users, creators, and investors.</description>
     </item>
     <item>
       <title>RWA Asset</title>
-      <link>/docs/asset/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/asset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/asset/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/asset/</guid>
       <description>After each piece of artwork is mapped through the CATALOGUE System, it will circulate on the blockchain in the form of RWA assets. Similar to the artwork itself, RWAs possess unique attributes and are uniquely tied to high-value artworks. Transaction earnings generated by each physical artwork will be distributed as profit-sharing rights to the corresponding RWA asset holders.&#xA;Buyers can conveniently purchase/sell the RWA assets associated with the artwork online at any time, representing a transaction or transfer of ownership of the artwork itself.</description>
     </item>
     <item>
       <title>Flow Scenarios of BeArt Token</title>
-      <link>/docs/token/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/token/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/token/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/token/</guid>
       <description>The circulation of BeArt Token will be reflected in the following scenarios:&#xA;Payment for ecosystem services, including but not limited to various professional services provided by BeArt. Payment of transaction commissions within the ecosystem, such as commissions for NFTs, RWA, and art derivatives transactions. Payment of annual subscription fees for platform VIP services, including BeArt VIP annual subscription fees. Payment for future GAS fees and platform application staking on the self-owned blockchain network.</description>
     </item>
     <item>
       <title>BeArt Token Governance Rights</title>
-      <link>/docs/rights/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/rights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/rights/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/rights/</guid>
       <description>Governance rights for BeArt Token will be reflected in the following aspects:&#xA;BeArt holders can obtain gBeArt by staking, which will be used for platform voting and governance. The longer users stake BeArt Tokens, the higher their voting weight with gBeArt. gBeArt holders will have the right to participate in proposals and decisions related to the future development of the BeArt ecosystem. gBeArt holders will receive rewards from the governance treasury based on their level of participation in various proposals.</description>
     </item>
     <item>
       <title>BeArt Token Issuance</title>
-      <link>/docs/issuance/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/issuance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/issuance/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/issuance/</guid>
       <description>BeArt Token Distribution:&#xA;Total Supply: 1,000,000,000 (1 billion tokens) BeArt Tokens. Issuance Mechanism: No issuance, continuous deflation. The distribution of BeArt Tokens is divided into three main categories:&#xA;Community Ecosystem Incentives: Used for various incentives in BeArt community ecosystem development, including Ecosystem Mining Pools (MP), Public Offerings (PO), and Strategic Investments (Investment), aiming to reward all participants in ecosystem development roles. Project Operations (OC): Mainly for the initial development of the project, including research and development, product development, operations, marketing, and community management.</description>
     </item>
     <item>
       <title>BBTE Mechanism</title>
-      <link>/docs/mechanism/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/mechanism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/mechanism/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/mechanism/</guid>
       <description>BeArt adopts the BBTE (Behavior-Based Token Economics) mechanism, which aims to quantify and recognize users&amp;rsquo; positive contributions on the BeArt platform by rewarding these behaviors. This mechanism is expected to be fully operational after the Token&amp;rsquo;s official launch.&#xA;Depending on the different roles, users can receive varying types and amounts of rewards.&#xA;BeArt&amp;rsquo;s rewards mainly consist of three categories: BeArt Level Achievement System; BeArt Credits Credit Rating System; BeArt Token Ecological Rewards.</description>
     </item>
     <item>
       <title>BeArt Auction</title>
-      <link>/docs/auction/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/auction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/auction/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/auction/</guid>
       <description>The bidding function is one of the core features of BeArt. We have initially adopted an improved &amp;ldquo;English auction&amp;rdquo; to better align with the process and characteristics of online auctions, while also providing buyers with the option for &amp;ldquo;fixed-price&amp;rdquo; purchases (which also serves as a fixed-price selling feature for sellers).</description>
     </item>
     <item>
       <title>RWA Collection</title>
-      <link>/docs/collection/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/collection/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/collection/</guid>
       <description>The RWA Collection is the core feature and first Art RWA product of BeArt Bank. Unlike protocols like Fraction.art for NFT fractionalization, RWA Collection is an on-chain asset that grants complete physical ownership. Users can simultaneously own both on-chain art assets and real-world physical assets, achieved through a series of on-chain supervision and binding, along with offline authentication and delivery. This process results in the digitization of physical assets on the blockchain, enabling a range of financial innovations, enhancing liquidity in the art market, and optimizing art pricing rationality.</description>
     </item>
     <item>
       <title>BeArt Artverse</title>
-      <link>/docs/artverse/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/artverse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/artverse/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/artverse/</guid>
       <description>BeArt-verse represents the ultimate chapter of the BeArt ecosystem. It is not just a project but a profound exploration in the realm of art and culture. Here, we believe that the pinnacle of technology lies not in the user&amp;rsquo;s immediate perception but in the ability to subtly guide users into the charm of art. Truly great art should captivate viewers&amp;rsquo; hearts at first sight.</description>
     </item>
     <item>
       <title>BeArt Artverse</title>
-      <link>/docs/teechain/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/teechain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/teechain/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/teechain/</guid>
       <description>BeArt TEEChain is a high-performance public chain based on asynchronous consensus and hybrid proof mechanisms. It features both responsive and proactive smart contracts to meet developers&amp;rsquo; diverse needs. Built on this chain, combined with cloud rendering technology, BeArt TEEChain provides underlying technical support and asset authentication for Artverse.</description>
     </item>
     <item>
       <title>Roadmap</title>
-      <link>/docs/roadmap/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/roadmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/roadmap/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/roadmap/</guid>
       <description>Past Achievements:&#xA;2018: BeArt Web3 project officially launched, and the core team was formed. 2019: BeArt strategic direction and technical roadmap were established, and technical research and development commenced. The CATALOGUE System was under development, exploring the implementation logic of Genetic NFT standards and determining on-chain technical solutions. 2020: Experimental-level demo completed under the Genetic standard. 2021: Design of BeArt Web3 products and economic model; MVP verification of CATALOGUE System completed; Commercial-level demo under the Genetic standard finished.</description>
     </item>
     <item>
       <title>Official Link</title>
-      <link>/docs/link/</link>
+      <link>https://github.com/pengrl/pengrl.github.io/docs/link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/link/</guid>
+      <guid>https://github.com/pengrl/pengrl.github.io/docs/link/</guid>
       <description> Web：https://beart.one/ Doc：https://medium.com/@beartrwa Twitter：https://twitter.com/BeArt_RWA Discord: https://discord.gg/CQdNVsjybW Telegram: https://t.me/beartweb3&amp;gt; Opensea 创世 NFT：https://opensea.io/collection/beart-visionary-club/overview Business Collaboration: business@beart.one </description>
     </item>
   </channel>
